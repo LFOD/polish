@@ -1,0 +1,12 @@
+Package: polish
+Type: Package
+Title: What the Package Does (Title Case)
+Version: 0.1.0
+Author: c(person("Lucy", "D'Agostino McGowan", email = "ld.mcgowan@vanderbilt.edu", role = c("aut","cre")),
+             person("Nick", "Strayer", email = "n.strayer@vanderbilt.edu", role = c("aut")))
+Maintainer: Lucy D'Agostino McGowan ld.mcgowan@vanderbilt.edu
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
